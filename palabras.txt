@@ -3,6 +3,3 @@ Rennala
 Ranni
 Miquella
 Malenia
-Mogh
-Gifnir
-Odeon
